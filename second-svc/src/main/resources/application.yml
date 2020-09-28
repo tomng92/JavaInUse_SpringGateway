@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: second-svc
+server:
+  port: 8082
